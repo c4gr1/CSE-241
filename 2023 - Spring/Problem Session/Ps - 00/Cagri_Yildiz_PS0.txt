@@ -1,0 +1,13 @@
+-	Operating system infos from lsb_release -a command
+	
+	Distributor ID:	Ubuntu
+	Description:	Ubuntu 20.04.4 LTS
+	Release:	20.04
+	Codename:	focal
+	
+-	I am using Visual Studio Code on Virtual Machine
+
+-	Compiler version info from gcc -v command
+	
+	gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)	
+

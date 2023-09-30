@@ -1,0 +1,6 @@
+Element 1   ->	Day:14	Month:2
+Element 2   ->	Day:2	Month:7
+Element 3   ->	Day:9	Month:2
+Element 4   ->	Day:10	Month:1
+Element 5   ->	Day:30	Month:3
+Element 6   ->	Day:4	Month:4

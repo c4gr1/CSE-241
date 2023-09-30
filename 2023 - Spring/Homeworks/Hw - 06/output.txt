@@ -1,0 +1,29 @@
+Catalog Read: music
+4 unique entries 
+search "2005" in "year"
+Exception : command is wrong
+search "Alan W. Paeth" in "authors"
+Exception : command is wrong
+sort "title"
+"Physical Graffiti" "Led Zeppelin" "1975" "Rock"
+"Professor Satchafunkilus and the Musterion of Rock" "Joe Satriani" "2008" "Guitar Virtuoso"
+"Return Of The Mother Head's Family Reunion" "Richie Kotzen" "2007" "Rock, Guitar Virtuoso"
+"Witchdoctor's Son" "Okay Temiz, Johnny Dyani" "2017" "Jazz, Fusion"
+search "2007" in "year"
+"Return Of The Mother Head's Family Reunion" "Richie Kotzen" "2007" "Rock, Guitar Virtuoso"
+search "Joe Satriani" in "artists"
+"Professor Satchafunkilus and the Musterion of Rock" "Joe Satriani" "2008" "Guitar Virtuoso"
+sort "tags"
+"Professor Satchafunkilus and the Musterion of Rock" "Joe Satriani" "2008" "Guitar Virtuoso"
+"Witchdoctor's Son" "Okay Temiz, Johnny Dyani" "2017" "Jazz, Fusion"
+"Physical Graffiti" "Led Zeppelin" "1975" "Rock"
+"Return Of The Mother Head's Family Reunion" "Richie Kotzen" "2007" "Rock, Guitar Virtuoso"
+search "Bruce Willis, Madeleine Stowe, Brad Pitt" in "starring"
+Exception : command is wrong
+search "2001" in "year"
+Exception : command is wrong
+sort "genre"
+"Professor Satchafunkilus and the Musterion of Rock" "Joe Satriani" "2008" "Guitar Virtuoso"
+"Witchdoctor's Son" "Okay Temiz, Johnny Dyani" "2017" "Jazz, Fusion"
+"Physical Graffiti" "Led Zeppelin" "1975" "Rock"
+"Return Of The Mother Head's Family Reunion" "Richie Kotzen" "2007" "Rock, Guitar Virtuoso"
